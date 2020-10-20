@@ -1,5 +1,8 @@
 // swift-tools-version:5.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
+/// Package.swift is the manifest, which comprises all information needed to build the package.
+/// If our package depends on other packages, that information would go here. 
+
 
 import PackageDescription
 
